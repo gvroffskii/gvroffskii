@@ -11,6 +11,14 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://gvroffskii.github.io/gvroffskii/"><img src="https://img.shields.io/badge/%E2%9C%A8_Interactive_Portfolio-OPEN_WEBSITE-64ffda?style=for-the-badge&labelColor=11162b" alt="Open interactive cosmic portfolio" /></a>
+
+🌌 **[Explore the full-screen animated portfolio](https://gvroffskii.github.io/gvroffskii/)** — interactive starfield, live effects, tech stack & projects.
+
+</div>
+
 ## 👋 About me
 
 I'm **Vladislav Altabnikoff**, exploring **system analysis** and **backend development** through practical projects. I work with API contracts, data models, business processes, service integrations and automated testing.
