@@ -53,14 +53,6 @@ I'm **Vladislav Altabnikoff**, exploring **system analysis** and **backend devel
 
 </div>
 
-## 🚀 Featured project
-
-### 🌿 EcoBooking — booking platform
-
-A practical booking platform project involving reservation workflows, user experience and integrations.
-
-**Repository:** `gvroffskii/ecobooking` — currently private; code is visible only to authorized collaborators.
-
 ## 📊 GitHub activity
 
 <div align="center">
